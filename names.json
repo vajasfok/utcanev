@@ -1,0 +1,908 @@
+{
+  "Fővám tér": {
+    "street": "Fővám tér",
+    "named_after": "Fővám tér",
+    "desc": "A Fővám tér Budapest V. (Belváros) és IX. kerületének (Belső-Ferencváros) határán, a Szabadság híd pesti hídfőjénél található.",
+    "wiki": "https://hu.wikipedia.org/wiki/Fővám tér"
+  },
+  "Szomory Dezső tér": {
+    "street": "Szomory Dezső tér",
+    "named_after": null,
+    "desc": "A(z) Szomory Dezső tér egy budapesti közterület.",
+    "wiki": null
+  },
+  "Ferenciek tere": {
+    "street": "Ferenciek tere",
+    "named_after": "Ferenciek tere",
+    "desc": "A Ferenciek tere Budapest V. kerületében, Pest történelmi Belvárosának középpontjában fekvő tér és közlekedési csomópont.",
+    "wiki": "https://hu.wikipedia.org/wiki/Ferenciek tere"
+  },
+  "Ferencziek Bazára": {
+    "street": "Ferencziek Bazára",
+    "named_after": null,
+    "desc": "A(z) Ferencziek Bazára egy budapesti közterület.",
+    "wiki": null
+  },
+  "Petőfi tér": {
+    "street": "Petőfi tér",
+    "named_after": "Petőfi Sándor",
+    "desc": "Petőfi Sándor magyar költő, forradalmár, nemzeti hős, a magyar költészet egyik legismertebb és egyik legkiemelkedőbb alakja. Rövid élete alatt közel ezer verset írt, ebből körülbelül nyolcszázötven maradt az utókorra; az ismertebbeket számos nyelvre lefordították.",
+    "wiki": "https://hu.wikipedia.org/wiki/Petőfi Sándor"
+  },
+  "Ferenciek tere, aluljáró": {
+    "street": "Ferenciek tere, aluljáró",
+    "named_after": null,
+    "desc": "A(z) Ferenciek tere, aluljáró egy budapesti közterület.",
+    "wiki": null
+  },
+  "Egyetem tér": {
+    "street": "Egyetem tér",
+    "named_after": "Bukaresti Egyetem",
+    "desc": "A Bukaresti Egyetem egyike Románia legfontosabb felsőoktatási és kutatási intézményeinek.",
+    "wiki": "https://hu.wikipedia.org/wiki/Bukaresti Egyetem"
+  },
+  "Kamermayer Károly tér": {
+    "street": "Kamermayer Károly tér",
+    "named_after": null,
+    "desc": "A(z) Kamermayer Károly tér egy budapesti közterület.",
+    "wiki": null
+  },
+  "Astoria aluljáró": {
+    "street": "Astoria aluljáró",
+    "named_after": null,
+    "desc": "A(z) Astoria aluljáró egy budapesti közterület.",
+    "wiki": null
+  },
+  "Olimpia park": {
+    "street": "Olimpia park",
+    "named_after": null,
+    "desc": "A(z) Olimpia park egy budapesti közterület.",
+    "wiki": null
+  },
+  "Vértanúk tere": {
+    "street": "Vértanúk tere",
+    "named_after": null,
+    "desc": "A(z) Vértanúk tere egy budapesti közterület.",
+    "wiki": null
+  },
+  "Károlyi utca": {
+    "street": "Károlyi utca",
+    "named_after": "Károlyi család",
+    "desc": "A nagy-károlyi gróf Károlyi család egyike az ősi magyar főnemesi családoknak.\nA Kaplon nemzetségből származott, amely a honfoglaláskor nyerte birtokait, köztük Kaplonyt, ahol a nemzetség ősi monostora állott, és a közelében fekvő Nagykárolyt (Nagy-Károly) is, amelyről a Károlyi család a nevét kapta.",
+    "wiki": "https://hu.wikipedia.org/wiki/Károlyi család"
+  },
+  "Váci utca": {
+    "street": "Váci utca",
+    "named_after": "Vác",
+    "desc": "Vác város a budapesti agglomerációban, Pest vármegyében, a Duna bal partján; a Váci járás székhelye. A Dunakanyar központjaként ismert település Pest vármegye ötödik legnagyobb lélekszámmal rendelkező városa, egyúttal vonzó idegenforgalmi célpont – egyrészt évezredes történelme, másrészt gazdag kulturális élete miatt. Katolikus püspöki székhely, a Váci egyházmegye központja.",
+    "wiki": "https://hu.wikipedia.org/wiki/Vác"
+  },
+  "Szabadság híd": {
+    "street": "Szabadság híd",
+    "named_after": "szabadság",
+    "desc": "A szabadság a kívánt tett megvalósításának lehetősége. Filozófiailag a determinizmus ellentéte. A politikában a szabadságjogok a biztosítékok a kormány kényszerítő intézkedéseivel szemben, az alkotmányos demokrácia, a jogállam egyik alapja, a vallások közül a hinduizmus is hangsúlyozza a döntés, a tett szabadságát, legfőképpen pedig Jézus – vagyis a Szabadító – szavait olvashatjuk Lukács evangéliumában az elnyomás és a bűn alóli felszabadításról és a szeretet kifejezésének szabadságáról bármely napon. A kultúrában a szabadság a kulturális örökség folytonos megújítása által történő szabad önkifejezés igényét jelenti, az őskortól a napjainkban lezajló szabad kulturális forradalomig folyamatosan jelen van.",
+    "wiki": "https://hu.wikipedia.org/wiki/Szabadság"
+  },
+  "Károly körút": {
+    "street": "Károly körút",
+    "named_after": "Invalidus-ház",
+    "desc": "Az Invalidus-ház, más néven Károly-kaszárnya Budapest V. kerületének egyik monumentális barokk katonai-polgári épülete, ma a Fővárosi Önkormányzat székháza.",
+    "wiki": "https://hu.wikipedia.org/wiki/Invalidus-ház"
+  },
+  "Széchenyi István tér": {
+    "street": "Széchenyi István tér",
+    "named_after": "Széchenyi István",
+    "desc": "Sárvárfelsővidéki gróf Széchenyi István államférfi, valóságos belső titkos tanácsos, császári és királyi kamarás, író, polihisztor, közgazdász, a Batthyány-kormány közlekedési minisztere, „a legnagyobb magyar”. Eszméi, hatása és gyakorlati tevékenysége által a modern Magyarország egyik megteremtője. A magyar politika egyik legkiemelkedőbb és legjelentősebb alakja, akinek nevéhez a magyar gazdaság, a közlekedés, a külpolitika és a sport területén végrehajtott reformok fűződnek. Eszméit tartalmazó könyvei, a Hitel, a Világ és a Stádium óriási hatást gyakoroltak kora szellemi megújításában.",
+    "wiki": "https://hu.wikipedia.org/wiki/Széchenyi István"
+  },
+  "Széchenyi lánchíd": {
+    "street": "Széchenyi lánchíd",
+    "named_after": "Széchenyi István",
+    "desc": "Sárvárfelsővidéki gróf Széchenyi István államférfi, valóságos belső titkos tanácsos, császári és királyi kamarás, író, polihisztor, közgazdász, a Batthyány-kormány közlekedési minisztere, „a legnagyobb magyar”. Eszméi, hatása és gyakorlati tevékenysége által a modern Magyarország egyik megteremtője. A magyar politika egyik legkiemelkedőbb és legjelentősebb alakja, akinek nevéhez a magyar gazdaság, a közlekedés, a külpolitika és a sport területén végrehajtott reformok fűződnek. Eszméit tartalmazó könyvei, a Hitel, a Világ és a Stádium óriási hatást gyakoroltak kora szellemi megújításában.",
+    "wiki": "https://hu.wikipedia.org/wiki/Széchenyi István"
+  },
+  "Jane Haining rakpart": {
+    "street": "Jane Haining rakpart",
+    "named_after": null,
+    "desc": "A(z) Jane Haining rakpart egy budapesti közterület.",
+    "wiki": null
+  },
+  "Október 6. utca": {
+    "street": "Október 6. utca",
+    "named_after": "aradi vértanúk",
+    "desc": "Az aradi vértanúk az a tizenhárom magyar honvédtiszt, akiket az 1848–49-es forradalom és szabadságharc leverése után, az abban játszott szerepük miatt Aradon kivégeztek. Bár ezen honvédtisztek száma tizenhat, a nemzeti emlékezet mégis elsősorban az 1849. október 6-án kivégzett tizenhárom honvédtisztet nevezi így, gyakran használva a tizenhárom aradi vértanú, illetve az aradi tizenhármak elnevezést is.",
+    "wiki": "https://hu.wikipedia.org/wiki/Aradi vértanúk"
+  },
+  "Szemere utca": {
+    "street": "Szemere utca",
+    "named_after": "Szemere Bertalan",
+    "desc": "Szemerei Szemere Bertalan magyar politikus, országgyűlési képviselő, író, jogtudós, az első felelős magyar kormány belügyminisztere, majd a Magyar Királyság második miniszterelnöke az 1848–49-es forradalom és szabadságharc alatt. A Magyar Tudományos Akadémia levelező tagja.",
+    "wiki": "https://hu.wikipedia.org/wiki/Szemere Bertalan"
+  },
+  "Alkotmány utca": {
+    "street": "Alkotmány utca",
+    "named_after": null,
+    "desc": "A(z) Alkotmány utca egy budapesti közterület.",
+    "wiki": null
+  },
+  "József Attila utca": {
+    "street": "József Attila utca",
+    "named_after": null,
+    "desc": "A(z) József Attila utca egy budapesti közterület.",
+    "wiki": null
+  },
+  "Nádor utca": {
+    "street": "Nádor utca",
+    "named_after": "József nádor",
+    "desc": "Habsburg–Lotaringiai József Antal János Baptist osztrák főherceg, magyar királyi herceg; az uralkodó I. Ferenc osztrák császár és magyar király öccse, aki Magyarország nádora 1795 szeptemberétől 1847. január 13-án bekövetkezett haláláig. A reformkorban, a Magyar Királyság fejlődéséért tett történelmi léptékű érdemei után „a legmagyarabb Habsburg” néven említik.",
+    "wiki": "https://hu.wikipedia.org/wiki/József nádor"
+  },
+  "Zoltán utca": {
+    "street": "Zoltán utca",
+    "named_after": null,
+    "desc": "A(z) Zoltán utca egy budapesti közterület.",
+    "wiki": null
+  },
+  "Báthory utca": {
+    "street": "Báthory utca",
+    "named_after": "Báthory István",
+    "desc": "Báthory István, magyar főnemes, magyar költő, erdélyi fejedelem 1571-től, valamint választott lengyel király és litván nagyfejedelem 1575-től hitvese, Anna lengyel királynő mellett saját, 1586-os haláláig. A Báthoryak somlyai ágának tagja, Báthory István vajda legidősebb fia.",
+    "wiki": "https://hu.wikipedia.org/wiki/Báthory István erdélyi fejedelem"
+  },
+  "Aulich utca": {
+    "street": "Aulich utca",
+    "named_after": "Aulich Lajos",
+    "desc": "Aulich Lajos, születési nevén Aulich Flórián Lajos honvéd vezérőrnagy, az 1848–49-es forradalom és szabadságharc harmadik – és az egyetlen aradi vértanú – hadügyminisztere.",
+    "wiki": "https://hu.wikipedia.org/wiki/Aulich Lajos"
+  },
+  "Vigadó utca": {
+    "street": "Vigadó utca",
+    "named_after": null,
+    "desc": "A(z) Vigadó utca egy budapesti közterület.",
+    "wiki": null
+  },
+  "Deák Ferenc utca": {
+    "street": "Deák Ferenc utca",
+    "named_after": "Deák Ferenc",
+    "desc": "Kehidai Deák Ferenc magyar politikus, jogász, táblabíró, államférfi, országgyűlési képviselő és a Batthyány-kormány igazságügy-minisztere. A reformkorban és a dualizmusban is meghatározó szerepet vállalt, akit „a haza bölcse” és „a nemzet prókátora” titulussal is illetnek.",
+    "wiki": "https://hu.wikipedia.org/wiki/Deák Ferenc (igazságügy-miniszter)"
+  },
+  "Piarista utca": {
+    "street": "Piarista utca",
+    "named_after": "Piarista Gimnázium",
+    "desc": "A budapesti Piarista Gimnázium a piaristák által működtetett hatosztályos gimnázium Budapesten. 1717 óta működik. A Piarista Gimnáziumot fenntartó szerzetesrendet 400 éve alapította Kalazanci Szent József. A piaristák 1717-ben telepedtek meg Pesten: ez lett Pest város első középiskolája. Azt itt tanító tanárok azóta is azon igyekeznek, hogy az egész embert neveljék – jelszavuk: hívő élet és tudomány.",
+    "wiki": "https://hu.wikipedia.org/wiki/Piarista Gimnázium (Budapest)"
+  },
+  "Szép utca": {
+    "street": "Szép utca",
+    "named_after": null,
+    "desc": "A(z) Szép utca egy budapesti közterület.",
+    "wiki": null
+  },
+  "Kossuth Lajos tér": {
+    "street": "Kossuth Lajos tér",
+    "named_after": "Kossuth Lajos",
+    "desc": "Udvardi és kossuthfalvi Kossuth Lajos magyar politikus, államférfi, ügyvéd és újságíró, a Batthyány-kormány pénzügyminisztere, a Honvédelmi Bizottmány elnöke, Magyarország kormányzó-elnöke. A nemzeti függetlenségért, a rendi kiváltságok felszámolásáért és a polgári szabadságjogok biztosításáért vívott 19. századi küzdelem egyik legnagyobb alakja, a magyar szabadságharc egyik szellemi vezére. Máig egyike azoknak, akik a magyar nép emlékezetében leginkább megtestesítik az 1848–1849-es forradalmat és szabadságharcot, Széchenyivel és Petőfivel együtt. Újságírói álneve Deregnyei volt.",
+    "wiki": "https://hu.wikipedia.org/wiki/Kossuth Lajos"
+  },
+  "Steindl Imre utca": {
+    "street": "Steindl Imre utca",
+    "named_after": "Steindl Imre",
+    "desc": "Steindl Imre, magyar építész, a magyar Országház tervezője, műegyetemi tanár, a Magyar Tudományos Akadémia levelező tagja.",
+    "wiki": "https://hu.wikipedia.org/wiki/Steindl Imre"
+  },
+  "Széchenyi utca": {
+    "street": "Széchenyi utca",
+    "named_after": "Széchenyi István",
+    "desc": "Sárvárfelsővidéki gróf Széchenyi István államférfi, valóságos belső titkos tanácsos, császári és királyi kamarás, író, polihisztor, közgazdász, a Batthyány-kormány közlekedési minisztere, „a legnagyobb magyar”. Eszméi, hatása és gyakorlati tevékenysége által a modern Magyarország egyik megteremtője. A magyar politika egyik legkiemelkedőbb és legjelentősebb alakja, akinek nevéhez a magyar gazdaság, a közlekedés, a külpolitika és a sport területén végrehajtott reformok fűződnek. Eszméit tartalmazó könyvei, a Hitel, a Világ és a Stádium óriási hatást gyakoroltak kora szellemi megújításában.",
+    "wiki": "https://hu.wikipedia.org/wiki/Széchenyi István"
+  },
+  "Vigyázó Ferenc utca": {
+    "street": "Vigyázó Ferenc utca",
+    "named_after": "Vigyázó Ferenc",
+    "desc": "A közterület Vigyázó Ferenc személyről kapta a nevét.",
+    "wiki": "https://hu.wikipedia.org/wiki/Vigyázó Ferenc"
+  },
+  "Arany János utca": {
+    "street": "Arany János utca",
+    "named_after": "Arany János",
+    "desc": "Arany János magyar költő, tanár, lapszerkesztő, a Kisfaludy Társaság igazgatója, a Magyar Tudományos Akadémia tagja és főtitkára. A magyar irodalom egyik legismertebb és egyben legjelentősebb alakja. A legnagyobb magyar balladaköltő, ezért nevezték a ballada Shakespeare-jének, vállalt hivatala miatt a szalontai nótáriusnak, de szülővárosában – vélhetően természete miatt – a hallgati ember titulussal is illették. Fordításai közül kiemelkednek Shakespeare-fordításai.",
+    "wiki": "https://hu.wikipedia.org/wiki/Arany János (költő)"
+  },
+  "Zrínyi utca": {
+    "street": "Zrínyi utca",
+    "named_after": null,
+    "desc": "A(z) Zrínyi utca egy budapesti közterület.",
+    "wiki": null
+  },
+  "Mérleg utca": {
+    "street": "Mérleg utca",
+    "named_after": null,
+    "desc": "A(z) Mérleg utca egy budapesti közterület.",
+    "wiki": null
+  },
+  "Sas utca": {
+    "street": "Sas utca",
+    "named_after": "sas",
+    "desc": "A sas a vágómadár-alakúak (Accipitriformes) rendjén belül a vágómadárfélék (Accipitridae) családjába tartozó egyes ragadozómadár-fajok összefoglaló elnevezése. Nem rendszertani kategória.",
+    "wiki": "https://hu.wikipedia.org/wiki/Sas"
+  },
+  "Tüköry utca": {
+    "street": "Tüköry utca",
+    "named_after": "Tüköry Lajos",
+    "desc": "A közterület Tüköry Lajos személyről kapta a nevét.",
+    "wiki": "https://hu.wikipedia.org/wiki/Tüköry Lajos"
+  },
+  "Garibaldi köz": {
+    "street": "Garibaldi köz",
+    "named_after": null,
+    "desc": "A(z) Garibaldi köz egy budapesti közterület.",
+    "wiki": null
+  },
+  "Vadász utca": {
+    "street": "Vadász utca",
+    "named_after": null,
+    "desc": "A(z) Vadász utca egy budapesti közterület.",
+    "wiki": null
+  },
+  "Bihari János utca": {
+    "street": "Bihari János utca",
+    "named_after": "Bihari János",
+    "desc": "Bihari János cigány származású magyar zeneszerző és hegedűművész. A verbunkos stílus egyik legnagyobb képviselője volt; Lavotta Jánossal és Csermák Antallal együtt a magyar zenei romantika ún. virtuóz triászát alkotja.",
+    "wiki": "https://hu.wikipedia.org/wiki/Bihari János (zeneszerző)"
+  },
+  "Nagy Ignác utca": {
+    "street": "Nagy Ignác utca",
+    "named_after": "Nagy Ignác",
+    "desc": "Nagy Ignác magyar író, újságíró, lapszerkesztő, költő, zenekritikus, a Kisfaludy Társaság tagja és az MTA levelező tagja.",
+    "wiki": "https://hu.wikipedia.org/wiki/Nagy Ignác (író)"
+  },
+  "Szalay utca": {
+    "street": "Szalay utca",
+    "named_after": "Szalay László",
+    "desc": "Kéméndi Szalay László magyar történetíró, jogász, liberális politikus és publicista, az MTA tagja és főtitkára (1861), a modern magyar történettudomány egyik megalapozója.",
+    "wiki": "https://hu.wikipedia.org/wiki/Szalay László (jogász, 1813–1864)"
+  },
+  "Markó utca": {
+    "street": "Markó utca",
+    "named_after": "Markó Károly, id.",
+    "desc": "Idősebb Markó Károly magyar festő, 1840-től a Magyar Tudományos Akadémia tagja, a magyar tájképfestészet egyik megteremtője. Művészete a 17. és 18. századi heroikus történelmi, illetve ideális tájképfestészetre épül. Tájképei idilli hangulatú, mitológiai, bibliai vagy hétköznapi jeleneteket megjelenítők. Magyar Claude Lorrainként ünnepelték.",
+    "wiki": "https://hu.wikipedia.org/wiki/Markó Károly (festő, 1793–1860)"
+  },
+  "Jászai Mari tér": {
+    "street": "Jászai Mari tér",
+    "named_after": "Jászai Mari",
+    "desc": "Jászai Mari magyar színésznő, a Nemzeti Színház nagyasszonya, az egyik legnagyobb magyar tragika.",
+    "wiki": "https://hu.wikipedia.org/wiki/Jászai Mari"
+  },
+  "Falk Miksa utca": {
+    "street": "Falk Miksa utca",
+    "named_after": "Falk Miksa",
+    "desc": "Falk Miksa magyar író, politikus, országgyűlési képviselő, az MTA tagja, a Szent István-rend középkeresztese, a bölcselet aranyokleveles és az államtudományok tiszteletbeli tudora, a Magyarországi Hírlapírók Nyugdíjintézetének az elnöke.",
+    "wiki": "https://hu.wikipedia.org/wiki/Falk Miksa"
+  },
+  "Bank utca": {
+    "street": "Bank utca",
+    "named_after": "Magyar Nemzeti Bank",
+    "desc": "A Magyar Nemzeti Bank Magyarország központi bankja. A központi bankok – vagy más néven jegybankok – fő feladatai elsősorban a monetáris politika vitele, az árstabilitás fenntartása, a pénzügyi rendszer stabilitásának biztosítása, és sok ország esetében a devizatartalékok kezelése. Az állami pénzintézet feladatait a 2013. évi CXXXIX. törvény (jegybanktörvény) rögzíti. 2025. március 4-től a Magyar Nemzeti Bank elnöke Varga Mihály.",
+    "wiki": "https://hu.wikipedia.org/wiki/Magyar Nemzeti Bank"
+  },
+  "Szabadság tér": {
+    "street": "Szabadság tér",
+    "named_after": "szabadság",
+    "desc": "A szabadság a kívánt tett megvalósításának lehetősége. Filozófiailag a determinizmus ellentéte. A politikában a szabadságjogok a biztosítékok a kormány kényszerítő intézkedéseivel szemben, az alkotmányos demokrácia, a jogállam egyik alapja, a vallások közül a hinduizmus is hangsúlyozza a döntés, a tett szabadságát, legfőképpen pedig Jézus – vagyis a Szabadító – szavait olvashatjuk Lukács evangéliumában az elnyomás és a bűn alóli felszabadításról és a szeretet kifejezésének szabadságáról bármely napon. A kultúrában a szabadság a kulturális örökség folytonos megújítása által történő szabad önkifejezés igényét jelenti, az őskortól a napjainkban lezajló szabad kulturális forradalomig folyamatosan jelen van.",
+    "wiki": "https://hu.wikipedia.org/wiki/Szabadság"
+  },
+  "Nagysándor József utca": {
+    "street": "Nagysándor József utca",
+    "named_after": "Nagysándor József",
+    "desc": "Nagysándor József honvéd vezérőrnagy, az aradi vértanúk egyike.",
+    "wiki": "https://hu.wikipedia.org/wiki/Nagysándor József"
+  },
+  "Vajkay utca": {
+    "street": "Vajkay utca",
+    "named_after": "Vajkay Károly",
+    "desc": "Szeredi Vajkay Károly jogi doktor, királyi táblai elnök, író, a Magyar Tudományos Akadémia levelező tagja.",
+    "wiki": "https://hu.wikipedia.org/wiki/Vajkay Károly"
+  },
+  "Balaton utca": {
+    "street": "Balaton utca",
+    "named_after": "Balaton",
+    "desc": "A Balaton egy tó a Dunántúlon, Közép-Európa legnagyobb tava, Magyarország vízrajzának meghatározó eleme. Könnyen felmelegedő, sekély vize kiválóan alkalmassá teszi a fürdésre és sportolásra, élővilága rendkívül gazdag, a táj változatos vulkanikus kúpjaival sok tekintetben egyedi.",
+    "wiki": "https://hu.wikipedia.org/wiki/Balaton"
+  },
+  "Szent István körút": {
+    "street": "Szent István körút",
+    "named_after": "I. István",
+    "desc": "I. (Szent) István az utolsó magyar fejedelem és az első magyar király. Géza fejedelem és Sarolt fejedelemasszony fia, a keresztény magyar állam megteremtőjeként a magyar történelem egyik legkiemelkedőbb alakja. A katolikus egyház egyházszervezői tevékenysége miatt szentté avatta 1083-ban Székesfehérvárott, ezt követően Magyarország fővédőszentje lett.",
+    "wiki": "https://hu.wikipedia.org/wiki/I. István magyar király"
+  },
+  "Stollár Béla utca": {
+    "street": "Stollár Béla utca",
+    "named_after": "Stollár Béla",
+    "desc": "Stollár Béla magyar újságíró, antifasiszta ellenálló.",
+    "wiki": "https://hu.wikipedia.org/wiki/Stollár Béla"
+  },
+  "Margit híd": {
+    "street": "Margit híd",
+    "named_after": "Árpád-házi Szent Margit",
+    "desc": "Árpád-házi Szent Margit IV. Béla magyar király és Laszkarisz Mária bizánci császári hercegnő leánya, Árpád-házi Szent Erzsébet unokahúga, Árpád-házi Boldog Erzsébet nagynénje.",
+    "wiki": "https://hu.wikipedia.org/wiki/Árpád-házi Szent Margit"
+  },
+  "Hercegprímás utca": {
+    "street": "Hercegprímás utca",
+    "named_after": "hercegprímás",
+    "desc": "Az esztergomi érsek a magyar katolikus egyház első számú főpapja, Magyarország prímása. A tisztséget I. István király hozta létre 1001-ben a esztergomi érsekség megalapításakor. 1993-tól az egyházmegyei határok rendezése folytán létrejött Esztergom-Budapesti főegyházmegye megyés püspökének címe az esztergom–budapesti érsek lett. A jelenlegi érsek Paskai László 2002-es lemondását követően dr. Erdő Péter bíboros.",
+    "wiki": "https://hu.wikipedia.org/wiki/Hercegprímás"
+  },
+  "Deák Ferenc tér": {
+    "street": "Deák Ferenc tér",
+    "named_after": "Deák Ferenc",
+    "desc": "Kehidai Deák Ferenc magyar politikus, jogász, táblabíró, államférfi, országgyűlési képviselő és a Batthyány-kormány igazságügy-minisztere. A reformkorban és a dualizmusban is meghatározó szerepet vállalt, akit „a haza bölcse” és „a nemzet prókátora” titulussal is illetnek.",
+    "wiki": "https://hu.wikipedia.org/wiki/Deák Ferenc (igazságügy-miniszter)"
+  },
+  "Perczel Mór utca": {
+    "street": "Perczel Mór utca",
+    "named_after": null,
+    "desc": "A(z) Perczel Mór utca egy budapesti közterület.",
+    "wiki": null
+  },
+  "Kiss Ernő utca": {
+    "street": "Kiss Ernő utca",
+    "named_after": "Kiss Ernő",
+    "desc": "Eleméri és ittebei Kiss Ernő honvéd altábornagy, az aradi vértanúk egyike.",
+    "wiki": "https://hu.wikipedia.org/wiki/Kiss Ernő (altábornagy)"
+  },
+  "Szent István tér": {
+    "street": "Szent István tér",
+    "named_after": "I. István",
+    "desc": "I. (Szent) István az utolsó magyar fejedelem és az első magyar király. Géza fejedelem és Sarolt fejedelemasszony fia, a keresztény magyar állam megteremtőjeként a magyar történelem egyik legkiemelkedőbb alakja. A katolikus egyház egyházszervezői tevékenysége miatt szentté avatta 1083-ban Székesfehérvárott, ezt követően Magyarország fővédőszentje lett.",
+    "wiki": "https://hu.wikipedia.org/wiki/I. István magyar király"
+  },
+  "Széchenyi rakpart": {
+    "street": "Széchenyi rakpart",
+    "named_after": null,
+    "desc": "A(z) Széchenyi rakpart egy budapesti közterület.",
+    "wiki": null
+  },
+  "Podmaniczky Frigyes tér": {
+    "street": "Podmaniczky Frigyes tér",
+    "named_after": "Podmaniczky Frigyes",
+    "desc": "Báró podmanini és aszódi Podmaniczky Frigyes magyar politikus, író, valóságos belső titkos tanácsos, országgyűlési képviselő, a fővárosi közmunkatanács alelnöke, a Magyar Tudományos Akadémia levelező tagja (1859).",
+    "wiki": "https://hu.wikipedia.org/wiki/Podmaniczky Frigyes"
+  },
+  "Hild tér": {
+    "street": "Hild tér",
+    "named_after": null,
+    "desc": "A(z) Hild tér egy budapesti közterület.",
+    "wiki": null
+  },
+  "Id. Antall József rakpart": {
+    "street": "Id. Antall József rakpart",
+    "named_after": null,
+    "desc": "A(z) Id. Antall József rakpart egy budapesti közterület.",
+    "wiki": null
+  },
+  "Carl Lutz rakpart": {
+    "street": "Carl Lutz rakpart",
+    "named_after": null,
+    "desc": "A(z) Carl Lutz rakpart egy budapesti közterület.",
+    "wiki": null
+  },
+  "Akadémia utca": {
+    "street": "Akadémia utca",
+    "named_after": "Magyar Tudományos Akadémia",
+    "desc": "A Magyar Tudományos Akadémia magyarországi tudományos köztestület, amelynek fő feladata a tudomány művelése, a tudomány eredményeinek terjesztése, a magyar tudomány képviselete. 2019-ig kutatóintézetekkel rendelkezett; a magyar kutatóhálózat jelentős részét is a Magyar Tudományos Akadémia irányította.",
+    "wiki": "https://hu.wikipedia.org/wiki/Magyar Tudományos Akadémia"
+  },
+  "Miatyánk utca": {
+    "street": "Miatyánk utca",
+    "named_after": null,
+    "desc": "A(z) Miatyánk utca egy budapesti közterület.",
+    "wiki": null
+  },
+  "Bécsi utca": {
+    "street": "Bécsi utca",
+    "named_after": "Bécs",
+    "desc": "Bécs Ausztria fővárosa és egyben legnagyobb városa, valamint az ország kilenc szövetségi tartománya közül az egyik. Bécs az ország politikai, kulturális, kereskedelmi, ipari és közlekedési központja. 2024-ben a népessége meghaladta a 2 millió főt, és ezzel Ausztria legnépesebb, valamint az Európai Unió 5. legnépesebb városa. A 20. század elejéig Bécs volt a világ legnagyobb német ajkú települése, mára a második a német főváros, Berlin után. A város közel fekszik a cseh, a szlovák és a magyar határokhoz, és egy másik fővároshoz, Pozsonyhoz.",
+    "wiki": "https://hu.wikipedia.org/wiki/Bécs"
+  },
+  "Szervita tér": {
+    "street": "Szervita tér",
+    "named_after": "Belvárosi Szent Anna-templom",
+    "desc": "A Belvárosi Szent Anna-templom, más néven szervita templom Budapesten található a Belvárosban, a Szervita téren. A második világháború végéig a szervita rend kezelésében működött, ma a Belvárosi Nagyboldogasszony Főplébániához tartozik. A templom az 1997. évi LIV. törvény alapján 15394 törzsszám alatt I. kategóriába sorolt műemlék.",
+    "wiki": "https://hu.wikipedia.org/wiki/Belvárosi Szent Anna-plébániatemplom"
+  },
+  "Dunakorzó": {
+    "street": "Dunakorzó",
+    "named_after": "Duna",
+    "desc": "A Duna Európa második leghosszabb folyója az oroszországi Volga után. Németországban, a Fekete-erdőben ered két kis patak, a Breg és a Brigach összefolyásával Donaueschingennél, és innen délkeleti irányban 2850 kilométert tesz meg a Fekete-tengerig. Magyarország egész területe e folyam vízgyűjtőjén terül el, itteni főágának hossza 417 km, ezért az ország vízrajzának meghatározó alkotóeleme.",
+    "wiki": "https://hu.wikipedia.org/wiki/Duna"
+  },
+  "Vigadó tér": {
+    "street": "Vigadó tér",
+    "named_after": "Pesti Vigadó",
+    "desc": "A Pesti Vigadó vagy röviden csak Vigadó Budapest belvárosában a Duna-parton található műemléképület, turisztikai látványosság és összművészeti rendezvényközpont. Helyén az 1849-es budai várostromig az osztrákok által a várból rommá ágyúzott klasszicista Redoute állt, hasonló funkciókkal. Az új román, bizánci és mór stílusú Vigadó épületet 1865-ben adták át.",
+    "wiki": "https://hu.wikipedia.org/wiki/Pesti Vigadó"
+  },
+  "Apáczai Csere János utca": {
+    "street": "Apáczai Csere János utca",
+    "named_after": "Apáczai Csere János",
+    "desc": "Apáczai Csere János, születési nevén Csere János, 1656-tól többnyire Apáczai Cseri János erdélyi magyar pedagógus, filozófus, kálvinista teológus, a magyar nevelésügy és az anyanyelvi tudományos ismeretterjesztés előfutára, az erdélyi puritánus mozgalom kiemelkedő alakja, az első magyar enciklopédista, a karteziánus ismeretelmélet korai magyar követőinek egyike.",
+    "wiki": "https://hu.wikipedia.org/wiki/Apáczai Csere János"
+  },
+  "Dorottya utca": {
+    "street": "Dorottya utca",
+    "named_after": "Mária Dorottya württembergi hercegnő",
+    "desc": "Württemberg Mária Dorottya, Lajos württemberg herceg és Nassau–Weilburgi Henrietta leánya, aki József nádor harmadik hitveseként majd annak özvegyeként osztrák főhercegné, vallásos írónő.",
+    "wiki": "https://hu.wikipedia.org/wiki/Mária Dorottya württembergi hercegnő"
+  },
+  "Harmincad utca": {
+    "street": "Harmincad utca",
+    "named_after": "harmincadvám",
+    "desc": "A harmincadvám Árpád-kori eredetű vám, melyet Károly Róbert király (1308–1342) külkereskedelmi vámként is bevezetett. A hivatal élén a harmincados (tricesimator) állt.",
+    "wiki": "https://hu.wikipedia.org/wiki/Harmincadvám"
+  },
+  "József nádor tér": {
+    "street": "József nádor tér",
+    "named_after": "József nádor",
+    "desc": "Habsburg–Lotaringiai József Antal János Baptist osztrák főherceg, magyar királyi herceg; az uralkodó I. Ferenc osztrák császár és magyar király öccse, aki Magyarország nádora 1795 szeptemberétől 1847. január 13-án bekövetkezett haláláig. A reformkorban, a Magyar Királyság fejlődéséért tett történelmi léptékű érdemei után „a legmagyarabb Habsburg” néven említik.",
+    "wiki": "https://hu.wikipedia.org/wiki/József nádor"
+  },
+  "Wekerle Sándor utca": {
+    "street": "Wekerle Sándor utca",
+    "named_after": "Wekerle Sándor",
+    "desc": "Idősebb Wekerle Sándor magyar jogász, politikus, szabadkőműves, előbb a Szapáry-kormány pénzügyminisztere, majd a Magyar Királyság miniszterelnöke először a Szabadelvű Párt színeiben 1892 és 1895 között, majd kétszer az Országos Alkotmánypárt színeiben 1906 és 1910, valamint 1917 és 1918 között. A Magyar Tudományos Akadémia tagja, egyúttal ő volt az első polgári származású magyar miniszterelnök. Nevét őrzi a pénzügyminisztersége alatt kezdeményezett kispesti lakónegyed, a Wekerletelep is. Halálának 90. évfordulóján – 2011-ben – Móron állították fel egész alakos köztéri emlékművét.",
+    "wiki": "https://hu.wikipedia.org/wiki/Wekerle Sándor (miniszterelnök)"
+  },
+  "Sütő utca": {
+    "street": "Sütő utca",
+    "named_after": null,
+    "desc": "A(z) Sütő utca egy budapesti közterület.",
+    "wiki": null
+  },
+  "Balassi Bálint utca": {
+    "street": "Balassi Bálint utca",
+    "named_after": "Balassi Bálint",
+    "desc": "Báró gyarmati és kékkői Balassi Bálint magyar költő, törökverő nemes.\nA magyarországi reneszánsz második korszakának nagy alakja, a magyar nyelvű költészet első kiemelkedő művelője, a magyar irodalom első klasszikusa.",
+    "wiki": "https://hu.wikipedia.org/wiki/Balassi Bálint"
+  },
+  "Vécsey utca": {
+    "street": "Vécsey utca",
+    "named_after": null,
+    "desc": "A(z) Vécsey utca egy budapesti közterület.",
+    "wiki": null
+  },
+  "Kossuth Lajos utca": {
+    "street": "Kossuth Lajos utca",
+    "named_after": "Kossuth Lajos",
+    "desc": "Udvardi és kossuthfalvi Kossuth Lajos magyar politikus, államférfi, ügyvéd és újságíró, a Batthyány-kormány pénzügyminisztere, a Honvédelmi Bizottmány elnöke, Magyarország kormányzó-elnöke. A nemzeti függetlenségért, a rendi kiváltságok felszámolásáért és a polgári szabadságjogok biztosításáért vívott 19. századi küzdelem egyik legnagyobb alakja, a magyar szabadságharc egyik szellemi vezére. Máig egyike azoknak, akik a magyar nép emlékezetében leginkább megtestesítik az 1848–1849-es forradalmat és szabadságharcot, Széchenyivel és Petőfivel együtt. Újságírói álneve Deregnyei volt.",
+    "wiki": "https://hu.wikipedia.org/wiki/Kossuth Lajos"
+  },
+  "Március 15. tér": {
+    "street": "Március 15. tér",
+    "named_after": "március 15.",
+    "desc": "Március 15. az év 74. napja a Gergely-naptár szerint. Az évből még 291 nap van hátra.",
+    "wiki": "https://hu.wikipedia.org/wiki/Március 15."
+  },
+  "Reáltanoda utca": {
+    "street": "Reáltanoda utca",
+    "named_after": null,
+    "desc": "A(z) Reáltanoda utca egy budapesti közterület.",
+    "wiki": null
+  },
+  "Királyi Pál utca": {
+    "street": "Királyi Pál utca",
+    "named_after": "Királyi Pál",
+    "desc": "Királyi József Pál magyar publicista és országgyűlési képviselő.",
+    "wiki": "https://hu.wikipedia.org/wiki/Királyi Pál"
+  },
+  "Belgrád rakpart": {
+    "street": "Belgrád rakpart",
+    "named_after": "Belgrád",
+    "desc": "Belgrád Szerbia fővárosa és egyben legnagyobb városa. Először az i. e. 3. században a kelták éltek itt, mielőtt római kolóniává vált mint Singidunum. Belgrád néven először 878-ban említik. 1403-ban lett először Szerbia fővárosa, 1918 és 2003 között Jugoszlávia, 2003 és 2006 között Szerbia és Montenegró fővárosa volt, majd 2006-tól ismét csak Szerbia fővárosa.",
+    "wiki": "https://hu.wikipedia.org/wiki/Belgrád"
+  },
+  "Veres Pálné utca": {
+    "street": "Veres Pálné utca",
+    "named_after": "Veres Pálné",
+    "desc": "Farádi Veres Pálné, született: benicei, micsinyei és pribóci Beniczky Hermin Karolina a magyar nőnevelés úttörője, a 19. század iskolaalapító magyar nagyasszonya, az Országos Nőképző Egyesületnek alapítója.",
+    "wiki": "https://hu.wikipedia.org/wiki/Veres Pálné"
+  },
+  "Képíró utca": {
+    "street": "Képíró utca",
+    "named_after": null,
+    "desc": "A(z) Képíró utca egy budapesti közterület.",
+    "wiki": null
+  },
+  "Ferenczy István utca": {
+    "street": "Ferenczy István utca",
+    "named_after": null,
+    "desc": "A(z) Ferenczy István utca egy budapesti közterület.",
+    "wiki": null
+  },
+  "Henszlmann Imre utca": {
+    "street": "Henszlmann Imre utca",
+    "named_after": null,
+    "desc": "A(z) Henszlmann Imre utca egy budapesti közterület.",
+    "wiki": null
+  },
+  "Só utca": {
+    "street": "Só utca",
+    "named_after": null,
+    "desc": "A(z) Só utca egy budapesti közterület.",
+    "wiki": null
+  },
+  "Kéményseprő utca": {
+    "street": "Kéményseprő utca",
+    "named_after": null,
+    "desc": "A(z) Kéményseprő utca egy budapesti közterület.",
+    "wiki": null
+  },
+  "Bástya utca": {
+    "street": "Bástya utca",
+    "named_after": null,
+    "desc": "A(z) Bástya utca egy budapesti közterület.",
+    "wiki": null
+  },
+  "Pintér utca": {
+    "street": "Pintér utca",
+    "named_after": null,
+    "desc": "A(z) Pintér utca egy budapesti közterület.",
+    "wiki": null
+  },
+  "Sörház utca": {
+    "street": "Sörház utca",
+    "named_after": null,
+    "desc": "A(z) Sörház utca egy budapesti közterület.",
+    "wiki": null
+  },
+  "Szarka utca": {
+    "street": "Szarka utca",
+    "named_after": null,
+    "desc": "A(z) Szarka utca egy budapesti közterület.",
+    "wiki": null
+  },
+  "Havas utca": {
+    "street": "Havas utca",
+    "named_after": null,
+    "desc": "A(z) Havas utca egy budapesti közterület.",
+    "wiki": null
+  },
+  "Cukor utca": {
+    "street": "Cukor utca",
+    "named_after": null,
+    "desc": "A(z) Cukor utca egy budapesti közterület.",
+    "wiki": null
+  },
+  "Nyáry Pál utca": {
+    "street": "Nyáry Pál utca",
+    "named_after": null,
+    "desc": "A(z) Nyáry Pál utca egy budapesti közterület.",
+    "wiki": null
+  },
+  "Molnár utca": {
+    "street": "Molnár utca",
+    "named_after": null,
+    "desc": "A(z) Molnár utca egy budapesti közterület.",
+    "wiki": null
+  },
+  "Fejér György utca": {
+    "street": "Fejér György utca",
+    "named_after": null,
+    "desc": "A(z) Fejér György utca egy budapesti közterület.",
+    "wiki": null
+  },
+  "Szerb utca": {
+    "street": "Szerb utca",
+    "named_after": null,
+    "desc": "A(z) Szerb utca egy budapesti közterület.",
+    "wiki": null
+  },
+  "Városház utca": {
+    "street": "Városház utca",
+    "named_after": "Invalidus-ház",
+    "desc": "Az Invalidus-ház, más néven Károly-kaszárnya Budapest V. kerületének egyik monumentális barokk katonai-polgári épülete, ma a Fővárosi Önkormányzat székháza.",
+    "wiki": "https://hu.wikipedia.org/wiki/Invalidus-ház"
+  },
+  "Türr István utca": {
+    "street": "Türr István utca",
+    "named_after": null,
+    "desc": "A(z) Türr István utca egy budapesti közterület.",
+    "wiki": null
+  },
+  "Régi posta utca": {
+    "street": "Régi posta utca",
+    "named_after": null,
+    "desc": "A(z) Régi posta utca egy budapesti közterület.",
+    "wiki": null
+  },
+  "Párizsi utca": {
+    "street": "Párizsi utca",
+    "named_after": null,
+    "desc": "A(z) Párizsi utca egy budapesti közterület.",
+    "wiki": null
+  },
+  "Pilvax köz": {
+    "street": "Pilvax köz",
+    "named_after": null,
+    "desc": "A(z) Pilvax köz egy budapesti közterület.",
+    "wiki": null
+  },
+  "Kígyó utca": {
+    "street": "Kígyó utca",
+    "named_after": null,
+    "desc": "A(z) Kígyó utca egy budapesti közterület.",
+    "wiki": null
+  },
+  "Gerlóczy utca": {
+    "street": "Gerlóczy utca",
+    "named_after": null,
+    "desc": "A(z) Gerlóczy utca egy budapesti közterület.",
+    "wiki": null
+  },
+  "Semmelweis utca": {
+    "street": "Semmelweis utca",
+    "named_after": null,
+    "desc": "A(z) Semmelweis utca egy budapesti közterület.",
+    "wiki": null
+  },
+  "Vitkovics Mihály utca": {
+    "street": "Vitkovics Mihály utca",
+    "named_after": null,
+    "desc": "A(z) Vitkovics Mihály utca egy budapesti közterület.",
+    "wiki": null
+  },
+  "Aranykéz utca": {
+    "street": "Aranykéz utca",
+    "named_after": "Arany Kéz Fogadó",
+    "desc": "Az Arany Kéz Fogadó Budapesten, az V. kerület Régi posta utca 9. szám alatt működő egyemeletes, manzárdtetős ház volt. Feltehetően a 18. század végén vagy a 19. század elején nyílt meg. Cégére egy kiálló vashorogra függesztett bearanyozott, szőlőfürtöt tartó kéz volt.",
+    "wiki": "https://hu.wikipedia.org/wiki/Arany Kéz Fogadó"
+  },
+  "Haris köz": {
+    "street": "Haris köz",
+    "named_after": null,
+    "desc": "A(z) Haris köz egy budapesti közterület.",
+    "wiki": null
+  },
+  "Galamb utca": {
+    "street": "Galamb utca",
+    "named_after": null,
+    "desc": "A(z) Galamb utca egy budapesti közterület.",
+    "wiki": null
+  },
+  "Vármegye utca": {
+    "street": "Vármegye utca",
+    "named_after": null,
+    "desc": "A(z) Vármegye utca egy budapesti közterület.",
+    "wiki": null
+  },
+  "Fehér Hajó utca": {
+    "street": "Fehér Hajó utca",
+    "named_after": null,
+    "desc": "A(z) Fehér Hajó utca egy budapesti közterület.",
+    "wiki": null
+  },
+  "Curia utca": {
+    "street": "Curia utca",
+    "named_after": null,
+    "desc": "A(z) Curia utca egy budapesti közterület.",
+    "wiki": null
+  },
+  "Pilinszky János köz": {
+    "street": "Pilinszky János köz",
+    "named_after": null,
+    "desc": "A(z) Pilinszky János köz egy budapesti közterület.",
+    "wiki": null
+  },
+  "Magyar utca": {
+    "street": "Magyar utca",
+    "named_after": null,
+    "desc": "A(z) Magyar utca egy budapesti közterület.",
+    "wiki": null
+  },
+  "Kálvin tér": {
+    "street": "Kálvin tér",
+    "named_after": "Kálvin tér",
+    "desc": "A Kálvin tér egy közlekedési csomópont Budapesten az V., VIII. és IX. kerület határán.",
+    "wiki": "https://hu.wikipedia.org/wiki/Kálvin tér"
+  },
+  "Duna utca": {
+    "street": "Duna utca",
+    "named_after": null,
+    "desc": "A(z) Duna utca egy budapesti közterület.",
+    "wiki": null
+  },
+  "Erzsébet tér": {
+    "street": "Erzsébet tér",
+    "named_after": "Wittelsbach Erzsébet magyar királyné",
+    "desc": "Erzsébet magyar királyné a Wittelsbach-házból származó bajor hercegnő, I. Ferenc József császár és királlyal kötött házassága révén osztrák császárné és cseh királyné 1854-től, magyar királyné 1867-től. Családi körben Sisinek becézték, Ernst Marischka 1955–57-es mozifilmjei nyomán a sajtóban és köznyelvben elterjedt a Sissi ragadványnév is.",
+    "wiki": "https://hu.wikipedia.org/wiki/Wittelsbach Erzsébet magyar királyné"
+  },
+  "Papnövelde utca": {
+    "street": "Papnövelde utca",
+    "named_after": null,
+    "desc": "A(z) Papnövelde utca egy budapesti közterület.",
+    "wiki": null
+  },
+  "Kecskeméti utca": {
+    "street": "Kecskeméti utca",
+    "named_after": "Kecskemét",
+    "desc": "Kecskemét megyei jogú város, Bács-Kiskun vármegye és a Kecskeméti járás székhelye. Lakónépesség szerint a Dél-Alföldön a második és Magyarországon a nyolcadik legnagyobb, közigazgatási terület szerint Magyarországon a hetedik, a Dél-Alföldön a második legnagyobb település. Bács-Kiskun vármegye népességének mintegy 23%-a él Kecskeméten. Félúton fekszik a főváros Budapest és az ország harmadik legnagyobb települése, a Dél-Alföld központja, Szeged között, mindkettőtől 86 kilométerre.",
+    "wiki": "https://hu.wikipedia.org/wiki/Kecskemét"
+  },
+  "Hold utca": {
+    "street": "Hold utca",
+    "named_after": "Hold",
+    "desc": "A Hold a Föld egyetlen holdja, a Naprendszer egyik óriásholdja. A Földtől mért átlagos távolsága 384 402 kilométer, ami nagyjából a Föld átmérőjének 30-szorosa – más mértékegységekben 0,002 CsE vagy 1,3 fénymásodperc. Átmérője 3476 kilométer, ami hozzávetőleg negyede a Földének. Ezzel a Hold a Naprendszer ötödik legnagyobb holdja a Jupiter három holdja, a Ganymedes, a Callisto és az Io, valamint a Szaturnusz Titan holdja után.",
+    "wiki": "https://hu.wikipedia.org/wiki/Hold"
+  },
+  "Honvéd utca": {
+    "street": "Honvéd utca",
+    "named_after": "közlegény",
+    "desc": "A közterület közlegény személyről kapta a nevét.",
+    "wiki": null
+  },
+  "Fővám tér M": {
+    "street": "Fővám tér M",
+    "named_after": "Fővám tér",
+    "desc": "A Fővám téri metróállomás a Szent Gellért tér és a Kálvin tér között helyezkedik el a budapesti M4-es metróvonalon.",
+    "wiki": "https://hu.wikipedia.org/wiki/Fővám tér metróállomás"
+  },
+  "Astoria M": {
+    "street": "Astoria M",
+    "named_after": "Astoria",
+    "desc": "Az Astoria a budapesti M2-es metróvonal egyik állomása a Blaha Lujza tér és a Deák Ferenc tér között Budapesten. Az állomást a metró első szakaszának átadásával, 1970. április 2-án nyitották meg.",
+    "wiki": "https://hu.wikipedia.org/wiki/Astoria metróállomás"
+  },
+  "Múzeum körút": {
+    "street": "Múzeum körút",
+    "named_after": "Magyar Nemzeti Múzeum",
+    "desc": "A Magyar Nemzeti Múzeum, a magyar közbeszédben gyakran csak „Nemzeti Múzeum” országos múzeum, a Magyar Nemzeti Múzeum Közgyűjteményi Központ egy tagintézménye, mely a magyar történelem tárgyi emlékeit gyűjti és mutatja be. Főépülete Budapest VIII. kerületében, a Múzeum körúton található. A múzeum klasszicista stílusú épülete 1837–47 között épült, tervezője Pollack Mihály építész volt, alapítója gróf Széchényi Ferenc.",
+    "wiki": "https://hu.wikipedia.org/wiki/Magyar Nemzeti Múzeum"
+  },
+  "Vámház körút": {
+    "street": "Vámház körút",
+    "named_after": "Fővámház",
+    "desc": "A Fővámház, más nevén Vámpalota, Fővámpalota a Ferencváros egyik ikonikus műemlékpalotája, amely ma a Budapesti Corvinus Egyetem központi kampuszának ad otthont.",
+    "wiki": "https://hu.wikipedia.org/wiki/Fővámház"
+  },
+  "Bárczy István utca": {
+    "street": "Bárczy István utca",
+    "named_after": null,
+    "desc": "A(z) Bárczy István utca egy budapesti közterület.",
+    "wiki": null
+  },
+  "Petőfi Sándor utca": {
+    "street": "Petőfi Sándor utca",
+    "named_after": "Petőfi Sándor",
+    "desc": "Petőfi Sándor magyar költő, forradalmár, nemzeti hős, a magyar költészet egyik legismertebb és egyik legkiemelkedőbb alakja. Rövid élete alatt közel ezer verset írt, ebből körülbelül nyolcszázötven maradt az utókorra; az ismertebbeket számos nyelvre lefordították.",
+    "wiki": "https://hu.wikipedia.org/wiki/Petőfi Sándor"
+  },
+  "Kozma Ferenc utca": {
+    "street": "Kozma Ferenc utca",
+    "named_after": "Kozma Ferenc",
+    "desc": "Leveldi Kozma Ferenc, írói nevein: Rimay Kálmán és Bárd Miklós magyar költő, katona. Kozma Andor (1861–1933) költő testvére, Kozma Sándor (1825–1897) jogász fia.",
+    "wiki": "https://hu.wikipedia.org/wiki/Kozma Ferenc (költő)"
+  },
+  "Nyugati tér": {
+    "street": "Nyugati tér",
+    "named_after": "Budapest-Nyugati pályaudvar",
+    "desc": "A Nyugati pályaudvar Budapest legrégebbi vasúti fejállomása a mai Nagykörút Teréz körúti szakasza mellett a VI. kerületben. Nevét nem a földrajzi fekvéséről, hanem az építtető vasúttársaságról kapta, ahogyan ez a Déli pályaudvar esetében is történt.",
+    "wiki": "https://hu.wikipedia.org/wiki/Nyugati pályaudvar"
+  },
+  "Bajcsy-Zsilinszky út": {
+    "street": "Bajcsy-Zsilinszky út",
+    "named_after": "Bajcsy-Zsilinszky Endre",
+    "desc": "Vitéz Bajcsy-Zsilinszky Endre Kálmán magyar nemzeti radikális politikus, újságíró, nyilasok által kivégzett nemzeti ellenálló.",
+    "wiki": "https://hu.wikipedia.org/wiki/Bajcsy-Zsilinszky Endre"
+  },
+  "Piarista köz": {
+    "street": "Piarista köz",
+    "named_after": null,
+    "desc": "A(z) Piarista köz egy budapesti közterület.",
+    "wiki": null
+  },
+  "Salkaházi Sára rakpart": {
+    "street": "Salkaházi Sára rakpart",
+    "named_after": null,
+    "desc": "A(z) Salkaházi Sára rakpart egy budapesti közterület.",
+    "wiki": null
+  },
+  "Erzsébet híd": {
+    "street": "Erzsébet híd",
+    "named_after": "Wittelsbach Erzsébet magyar királyné",
+    "desc": "Erzsébet magyar királyné a Wittelsbach-házból származó bajor hercegnő, I. Ferenc József császár és királlyal kötött házassága révén osztrák császárné és cseh királyné 1854-től, magyar királyné 1867-től. Családi körben Sisinek becézték, Ernst Marischka 1955–57-es mozifilmjei nyomán a sajtóban és köznyelvben elterjedt a Sissi ragadványnév is.",
+    "wiki": "https://hu.wikipedia.org/wiki/Wittelsbach Erzsébet magyar királyné"
+  },
+  "Irányi utca": {
+    "street": "Irányi utca",
+    "named_after": null,
+    "desc": "A(z) Irányi utca egy budapesti közterület.",
+    "wiki": null
+  },
+  "Szabad sajtó út": {
+    "street": "Szabad sajtó út",
+    "named_after": null,
+    "desc": "A(z) Szabad sajtó út egy budapesti közterület.",
+    "wiki": null
+  },
+  "Vörösmarty tér": {
+    "street": "Vörösmarty tér",
+    "named_after": "Vörösmarty Mihály",
+    "desc": "Vörösmarty Mihály magyar költő, író, ügyvéd, táblabíró, a Magyar Tudományos Akadémia és a Kisfaludy Társaság rendes tagja, a magyar romantika egyik legnagyobb alakja.",
+    "wiki": "https://hu.wikipedia.org/wiki/Vörösmarty Mihály"
+  },
+  "Kristóf tér": {
+    "street": "Kristóf tér",
+    "named_after": null,
+    "desc": "A(z) Kristóf tér egy budapesti közterület.",
+    "wiki": null
+  },
+  "Kálmán Imre utca": {
+    "street": "Kálmán Imre utca",
+    "named_after": "Kálmán Imre",
+    "desc": "Kálmán Imre operettjeiről híres magyar zeneszerző, karmester.",
+    "wiki": "https://hu.wikipedia.org/wiki/Kálmán Imre"
+  },
+  "Honvéd tér": {
+    "street": "Honvéd tér",
+    "named_after": null,
+    "desc": "A(z) Honvéd tér egy budapesti közterület.",
+    "wiki": null
+  },
+  "M2": {
+    "street": "M2",
+    "named_after": null,
+    "desc": "A(z) M2 egy budapesti közterület.",
+    "wiki": null
+  },
+  "M3": {
+    "street": "M3",
+    "named_after": null,
+    "desc": "A(z) M3 egy budapesti közterület.",
+    "wiki": null
+  },
+  "M1": {
+    "street": "M1",
+    "named_after": null,
+    "desc": "A(z) M1 egy budapesti közterület.",
+    "wiki": null
+  },
+  "Eötvös lépcső": {
+    "street": "Eötvös lépcső",
+    "named_after": null,
+    "desc": "A(z) Eötvös lépcső egy budapesti közterület.",
+    "wiki": null
+  },
+  "Kikötő lépcső": {
+    "street": "Kikötő lépcső",
+    "named_after": null,
+    "desc": "A(z) Kikötő lépcső egy budapesti közterület.",
+    "wiki": null
+  },
+  "Városháza passzázs": {
+    "street": "Városháza passzázs",
+    "named_after": null,
+    "desc": "A(z) Városháza passzázs egy budapesti közterület.",
+    "wiki": null
+  },
+  "Csillag Illés lépcső": {
+    "street": "Csillag Illés lépcső",
+    "named_after": null,
+    "desc": "A(z) Csillag Illés lépcső egy budapesti közterület.",
+    "wiki": null
+  },
+  "Eötvös tér": {
+    "street": "Eötvös tér",
+    "named_after": null,
+    "desc": "A(z) Eötvös tér egy budapesti közterület.",
+    "wiki": null
+  },
+  "Garibaldi utca": {
+    "street": "Garibaldi utca",
+    "named_after": "Giuseppe Garibaldi",
+    "desc": "Giuseppe Garibaldi olasz forradalmár, hazafi és tábornok, az egységes Olaszországért harcoló hadsereg egyik vezére. Harcolt Európán kívül Dél-Amerikában is, ezért kapta a két világ hőse nevet.",
+    "wiki": "https://hu.wikipedia.org/wiki/Giuseppe Garibaldi"
+  }
+}

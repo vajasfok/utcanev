@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <title>V. kerület utcanevek</title>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css"/>
+  <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+  <style>
+    #map { height: 100vh; }
+  .leaflet-popup-content {
+    font-size: 18px;
+    line-height: 1.4;
+  }
+
+  .leaflet-container {
+    font-size: 16px;
+  }
+  </style>
+</head>
+<body>
+
+<div id="map"></div>
+
+<script>
+var isMobile = window.innerWidth < 768;
+
+var map = L.map('map').setView(
+  [47.4979, 19.0402],
+  isMobile ? 16 : 15
+);
+map.touchZoom.enable();
+map.doubleClickZoom.enable();
+map.scrollWheelZoom.enable();
+L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png')
+  .addTo(map);
+
+// ide jön majd a GeoJSON fájlod
+Promise.all([
+  fetch('streets.geojson').then(r => r.json()),
+  fetch('names.json').then(r => r.json())
+]).then(([geo, names]) => {
+  L.geoJSON(geo, {
+
+  // 🔵 látható vékony vonal
+  style: function () {
+    return {
+      color: "#3388ff",
+      weight: 3,
+      opacity: 0.6
+    };
+  },
+
+  onEachFeature: function (feature, layer) {
+
+    // 🔴 NEM LÁTHATÓ, DE KATTINTHATÓ “BUFFER”
+    layer.setStyle({
+      weight: window.innerWidth < 768 ? 15 : 10,
+      opacity: 0
+    });
+
+    let street = feature.properties.name;
+    let info = names[street];
+
+    if (info) {
+      let text = "<b>" + (street || "Ismeretlen") + "</b><br>";
+
+if (info) {
+
+  if (info.img) {
+    text += `<img src="${info.img}" style="width:100%; max-width:200px; margin:5px 0;"><br>`;
+  }
+
+  if (info.name) text += info.name + "<br>";
+  if (info.desc) text += info.desc + "<br>";
+
+  if (info.wiki) {
+    text += `<a href="${info.wiki}" target="_blank">Wikipedia oldal</a>`;
+  }
+}
+
+      layer.bindPopup(text);
+
+    } else {
+      layer.bindPopup(street + "<br><i>Nincs adat</i>");
+    }
+  }
+
+}).addTo(map);
+  });
+</script>
+
+</body>
+</html>
