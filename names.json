@@ -9,9 +9,9 @@
   "Szomory Dezső tér": {
     "street": "Szomory Dezső tér",
     "named_after": null,
-    "desc": "A(z) Szomory Dezső tér egy budapesti közterület.",
-    "wiki": null,
-    "img": null
+    "desc": "Szomory Dezső, eredetileg Weisz Mór (Pest, 1869. június 2. – Budapest, 1944. november 30.) magyar író, drámaíró",
+    "wiki": "https://hu.wikipedia.org/wiki/Szomory_Dezs%C5%91",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Szomory_Dezso.jpg"
   },
   "Ferenciek tere": {
     "street": "Ferenciek tere",

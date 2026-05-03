@@ -45,6 +45,19 @@ Promise.all([
   fetch('streets.geojson').then(r => r.json()),
   fetch('names.json').then(r => r.json())
 ]).then(([geo, names]) => {
+
+   console.log("összes utca:", Object.keys(names).length);
+
+  let invalidDesc = Object.entries(names)
+    .filter(([k, v]) =>
+      v.desc &&
+      v.desc.includes("egy budapesti közterület")
+    )
+    .map(([k]) => k);
+
+  console.log("Fallback szöveges utcák:", invalidDesc.length);
+  console.log(invalidDesc);
+
   L.geoJSON(geo, {
 
   // 🔵 látható vékony vonal
@@ -80,7 +93,12 @@ Promise.all([
       text += `<a href="${info.wiki}" target="_blank" rel="noopener noreferrer">Wikipedia oldal</a>`;
     }
 
-    layer.bindPopup(text);
+   layer.bindPopup(text, {
+  
+    autoPan: true,
+    autoPanPaddingTopLeft: [20, 80],
+    autoPanPaddingBottomRight: [20, 20]
+});
 
   } else {
     layer.bindPopup(street + "<br><i>Nincs adat</i>");
