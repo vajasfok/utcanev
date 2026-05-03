@@ -8,10 +8,15 @@
   <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
   <style>
     #map { height: 100vh; }
+
   .leaflet-popup-content {
-    font-size: 18px;
-    line-height: 1.4;
-  }
+  font-size: 18px;
+  line-height: 1.4;
+
+  max-height: 60vh;
+  overflow-y: auto;
+  -webkit-overflow-scrolling: touch;
+}
 
   .leaflet-container {
     font-size: 16px;
@@ -53,38 +58,34 @@ Promise.all([
 
   onEachFeature: function (feature, layer) {
 
-    // 🔴 NEM LÁTHATÓ, DE KATTINTHATÓ “BUFFER”
-    layer.setStyle({
-      weight: window.innerWidth < 768 ? 15 : 10,
-      opacity: 0
-    });
+  layer.setStyle({
+    weight: isMobile ? 15 : 10,
+    opacity: 0
+  });
 
-    let street = feature.properties.name;
-    let info = names[street];
+  let street = feature.properties.name;
+  let info = names[street];
 
-    if (info) {
-      let text = "<b>" + (street || "Ismeretlen") + "</b><br>";
+  if (info) {
+    let text = "<b>" + street + "</b><br>";
 
-if (info) {
+    if (info.img) {
+      text += `<img src="${info.img}" style="width:100%; max-width:200px; margin:5px 0;"><br>`;
+    }
 
-  if (info.img) {
-    text += `<img src="${info.img}" style="width:100%; max-width:200px; margin:5px 0;"><br>`;
-  }
+    if (info.name) text += info.name + "<br>";
+    if (info.desc) text += info.desc + "<br>";
 
-  if (info.name) text += info.name + "<br>";
-  if (info.desc) text += info.desc + "<br>";
+    if (info.wiki) {
+      text += `<a href="${info.wiki}" target="_blank" rel="noopener noreferrer">Wikipedia oldal</a>`;
+    }
 
-  if (info.wiki) {
-    text += `<a href="${info.wiki}" target="_blank" rel="noopener noreferrer">Wikipedia oldal</a>`;
+    layer.bindPopup(text);
+
+  } else {
+    layer.bindPopup(street + "<br><i>Nincs adat</i>");
   }
 }
-
-      layer.bindPopup(text);
-
-    } else {
-      layer.bindPopup(street + "<br><i>Nincs adat</i>");
-    }
-  }
 
 }).addTo(map);
   });
