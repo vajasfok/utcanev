@@ -9,13 +9,18 @@
   <style>
     #map { height: 100vh; }
   .leaflet-popup-content {
-    font-size: 18px;
-    line-height: 1.4;
-  }
+  font-size: 18px;
+  line-height: 1.6;
 
-  .leaflet-container {
-    font-size: 16px;
-  }
+  max-height: 60vh;
+  overflow-y: auto;
+  -webkit-overflow-scrolling: touch;
+}
+
+  .poem {
+  white-space: pre-line;
+  line-height: 1.7;
+}
   </style>
 </head>
 <body>
@@ -72,7 +77,14 @@ if (info) {
   }
 
   if (info.name) text += info.name + "<br>";
-  if (info.desc) text += info.desc + "<br>";
+
+if (info.desc) {
+  if (info.format === "poem") {
+    text += `<div class="poem">${info.desc}</div>`;
+  } else {
+    text += info.desc.replace(/\n/g, "<br>");
+  }
+}
 
   if (info.wiki) {
     text += `<a href="${info.wiki}" target="_blank">Wikipedia oldal</a>`;
@@ -80,7 +92,7 @@ if (info) {
 }
 
       layer.bindPopup(text, {
-  maxWidth: 250
+  maxWidth: 320
 });
 
     } else {
