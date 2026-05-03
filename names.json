@@ -730,30 +730,30 @@
   "Pilvax köz": {
     "street": "Pilvax köz",
     "named_after": null,
-    "desc": "A(z) Pilvax köz egy budapesti közterület.",
+    "desc": "Nevét a korábban itt működő Pilvax kávéházról, az 1848-as márciui ifijak gyülekezőhelyéről kapta. Karl Pilwax a kávéház névadója.",
     "wiki": null,
     "img": null
   },
   "Kígyó utca": {
     "street": "Kígyó utca",
     "named_after": null,
-    "desc": "A(z) Kígyó utca egy budapesti közterület.",
+    "desc": "Az itt működött patika cégérében lévő kígyóról kapta a nevét.",
     "wiki": null,
     "img": null
   },
   "Gerlóczy utca": {
     "street": "Gerlóczy utca",
     "named_after": null,
-    "desc": "A(z) Gerlóczy utca egy budapesti közterület.",
+    "desc": "Gerlóczy Károly (1835–1900), jogász, alpolgármester, a főváros közéletének aktív alakja volt.",
     "wiki": null,
     "img": null
   },
   "Semmelweis utca": {
     "street": "Semmelweis utca",
     "named_after": null,
-    "desc": "A(z) Semmelweis utca egy budapesti közterület.",
-    "wiki": null,
-    "img": null
+    "desc": "Semmelweis Ignác Fülöp (németül: Ignaz Philipp Semmelweis, Buda, 1818. július 1. – Döbling, 1865. augusztus 13.) magyar orvos, „az anyák megmentője”.",
+    "wiki": "https://hu.wikipedia.org/wiki/Semmelweis_Ign%C3%A1cnull",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Borsos_%26_Doctor_Semmelweis_Ign%C3%A1c_cropped.jpg"
   },
   "Vitkovics Mihály utca": {
     "street": "Vitkovics Mihály utca",
@@ -842,7 +842,7 @@
   "Papnövelde utca": {
     "street": "Papnövelde utca",
     "named_after": null,
-    "desc": "A(z) Papnövelde utca egy budapesti közterület.",
+    "desc": "a Pesti Papnevelő Intézetről (vagy papneveldérol) kapta a nevét, amely a környék meghatározó egyházi intézménye volt.",
     "wiki": null,
     "img": null
   },
@@ -863,28 +863,28 @@
   "Honvéd utca": {
     "street": "Honvéd utca",
     "named_after": "közlegény",
-    "desc": "A(z) Honvéd utca nevű budapesti közterület közlegény személyről kapta a nevét.",
+    "desc": "Honvéd utca elnevezése az 1848–49-es forradalom és szabadságharc dicső emlékezetére, illetve a 19. században ott állt kaszárnyákra utal. A név közvetlen ihletője a közelben található egykori Valero-laktanya (később Főherceg Károly laktanya) volt, amely honvéd épületként funkcionált.",
     "wiki": null,
     "img": null
   },
   "Fővám tér M": {
-    "street": "Fővám tér M",
+    "street": "Fővám tér",
     "named_after": "Fővám tér",
-    "desc": "A Fővám téri metróállomás a Szent Gellért tér és a Kálvin tér között helyezkedik el a budapesti M4-es metróvonalon.",
-    "wiki": "https://hu.wikipedia.org/wiki/Fővám tér metróállomás",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Budapest%2C_M4_metr%C3%B3%2C_F%C5%91v%C3%A1m_t%C3%A9r%2C_2.jpg/330px-Budapest%2C_M4_metr%C3%B3%2C_F%C5%91v%C3%A1m_t%C3%A9r%2C_2.jpg"
+    "desc": "1870 és 1874 között építették a kétemeletes Fővámházat, amit Ybl Miklós tervezett, neoreneszánsz stílusban. Ma ez a palota a Corvinus Egyetem központi épülete. A Fővárosi Közmunkák Tanácsa annak átadásakor róla nevezte el a teret.",
+    "wiki": "https://hu.wikipedia.org/wiki/F%C5%91v%C3%A1mh%C3%A1z",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/0/01/Virtue_statues_by_%C3%81gost_Sommer%2C_1874._Corvinus_University_Main_Building%2C_facade._-_F%C5%91v%C3%A1m_Square%2C_Budapest_District_V.jpg"
   },
   "Astoria M": {
-    "street": "Astoria M",
+    "street": "Astoria",
     "named_after": "Astoria",
-    "desc": "Az Astoria a budapesti M2-es metróvonal egyik állomása a Blaha Lujza tér és a Deák Ferenc tér között Budapesten. Az állomást a metró első szakaszának átadásával, 1970. április 2-án nyitották meg.",
-    "wiki": "https://hu.wikipedia.org/wiki/Astoria metróállomás",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Metro_astoria_budapest_2.JPG/330px-Metro_astoria_budapest_2.JPG"
+    "desc": "Az itt álló, 1914-ben nyílt Astoria Szálló után a köznyelv nevezte el így. A kereszteződés nem hivatalos neve.",
+    "wiki": "https://hu.wikipedia.org/wiki/Astoria_Sz%C3%A1ll%C3%B3_(Budapest)",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/4/44/Astoria_Sz%C3%A1ll%C3%B3.jpg"
   },
   "Múzeum körút": {
     "street": "Múzeum körút",
     "named_after": "Magyar Nemzeti Múzeum",
-    "desc": "A Magyar Nemzeti Múzeum, a magyar közbeszédben gyakran csak „Nemzeti Múzeum” országos múzeum, a Magyar Nemzeti Múzeum Közgyűjteményi Központ egy tagintézménye, mely a magyar történelem tárgyi emlékeit gyűjti és mutatja be. Főépülete Budapest VIII. kerületében, a Múzeum körúton található. A múzeum klasszicista stílusú épülete 1837–47 között épült, tervezője Pollack Mihály építész volt, alapítója gróf Széchényi Ferenc.",
+    "desc": "A Magyar Nemzeti Múzeum, a magyar közbeszédben gyakran csak „Nemzeti Múzeum” országos múzeum, a Magyar Nemzeti Múzeum Közgyűjteményi Központ egy tagintézménye, mely a magyar történelem tárgyi emlékeit gyűjti és mutatja be. A múzeum klasszicista stílusú épülete 1837–47 között épült, tervezője Pollack Mihály építész volt, alapítója gróf Széchényi Ferenc.",
     "wiki": "https://hu.wikipedia.org/wiki/Magyar Nemzeti Múzeum",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Magyar_Nemzeti_M%C3%BAzeum.jpg/330px-Magyar_Nemzeti_M%C3%BAzeum.jpg"
   },
@@ -898,14 +898,14 @@
   "Bárczy István utca": {
     "street": "Bárczy István utca",
     "named_after": null,
-    "desc": "A(z) Bárczy István utca egy budapesti közterület.",
-    "wiki": null,
-    "img": null
+    "desc": "Bárczy István László (Pest, 1866. október 3. – Budapest, 1943. június 1.) jogász, politikus, Budapest polgármestere, majd főpolgármestere 1906 – 1918.",
+    "wiki": "https://hu.wikipedia.org/wiki/B%C3%A1rczy_Istv%C3%A1n",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/3/36/B%C3%A1rczy_Istv%C3%A1n.jpg"
   },
   "Petőfi Sándor utca": {
     "street": "Petőfi Sándor utca",
     "named_after": "Petőfi Sándor",
-    "desc": "Petőfi Sándor magyar költő, forradalmár, nemzeti hős, a magyar költészet egyik legismertebb és egyik legkiemelkedőbb alakja. Rövid élete alatt közel ezer verset írt, ebből körülbelül nyolcszázötven maradt az utókorra; az ismertebbeket számos nyelvre lefordították.",
+    "desc": "Petőfi Sándor (1823-1849) magyar költő, forradalmár, nemzeti hős, a magyar költészet egyik legismertebb és egyik legkiemelkedőbb alakja. Rövid élete alatt közel ezer verset írt, ebből körülbelül nyolcszázötven maradt az utókorra; az ismertebbeket számos nyelvre lefordították.",
     "wiki": "https://hu.wikipedia.org/wiki/Petőfi Sándor",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Barab%C3%A1s_Pet%C5%91fi.jpg/330px-Barab%C3%A1s_Pet%C5%91fi.jpg"
   },
@@ -933,21 +933,21 @@
   "Piarista köz": {
     "street": "Piarista köz",
     "named_after": null,
-    "desc": "A(z) Piarista köz egy budapesti közterület.",
+    "desc": "Nevét a Piarista Gimnázium és Rendház épületegyütteséről kapta. A közterület a piarista (kegyesrendi) szerzetesrend pesti jelenlétére és az ott működő oktatási intézményre utal, a rendet pedig Kalazanci Szent József alapította.",
     "wiki": null,
-    "img": null
+    "img": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Piarista_K%C3%B6zpont_Budapest_Duna_fel%C5%91li_homlokzat.jpg"
   },
   "Salkaházi Sára rakpart": {
     "street": "Salkaházi Sára rakpart",
     "named_after": null,
-    "desc": "A(z) Salkaházi Sára rakpart egy budapesti közterület.",
-    "wiki": null,
-    "img": null
+    "desc": "Boldog Salkaházi Sára (1899-1944) a Szociális Testvérek Társasága apácanővére, közel száz magyarországi zsidó megmentője a nyilas rémuralom idején, vértanú.",
+    "wiki": "https://hu.wikipedia.org/wiki/Salkah%C3%A1zi_S%C3%A1ra",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Sara_Salkahazi.jpg"
   },
   "Erzsébet híd": {
     "street": "Erzsébet híd",
     "named_after": "Wittelsbach Erzsébet magyar királyné",
-    "desc": "Erzsébet magyar királyné a Wittelsbach-házból származó bajor hercegnő, I. Ferenc József császár és királlyal kötött házassága révén osztrák császárné és cseh királyné 1854-től, magyar királyné 1867-től. Családi körben Sisinek becézték, Ernst Marischka 1955–57-es mozifilmjei nyomán a sajtóban és köznyelvben elterjedt a Sissi ragadványnév is.",
+    "desc": "Erzsébet magyar királyné - Sziszi, a Wittelsbach-házból származó bajor hercegnő, I. Ferenc József császár és királlyal kötött házassága révén osztrák császárné és cseh királyné 1854-től, magyar királyné 1867-től. Családi körben Sisinek becézték, Ernst Marischka 1955–57-es mozifilmjei nyomán a sajtóban és köznyelvben elterjedt a Sissi ragadványnév is.",
     "wiki": "https://hu.wikipedia.org/wiki/Wittelsbach Erzsébet magyar királyné",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Isabel_da_%C3%81ustria_1867.jpg/330px-Isabel_da_%C3%81ustria_1867.jpg"
   },
@@ -996,21 +996,21 @@
   "M2": {
     "street": "M2",
     "named_after": null,
-    "desc": "A(z) M2 egy budapesti közterület.",
+    "desc": "A(z) M2 egy budapesti metróvonal.",
     "wiki": null,
     "img": null
   },
   "M3": {
     "street": "M3",
     "named_after": null,
-    "desc": "A(z) M3 egy budapesti közterület.",
+    "desc": "A(z) M3 egy budapesti metróvonal.",
     "wiki": null,
     "img": null
   },
   "M1": {
     "street": "M1",
     "named_after": null,
-    "desc": "A(z) M1 egy budapesti közterület.",
+    "desc": "A(z) M1 egy budapesti metróvonal.",
     "wiki": null,
     "img": null
   },
