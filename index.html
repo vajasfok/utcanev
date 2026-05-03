@@ -79,7 +79,9 @@ if (info) {
   }
 }
 
-      layer.bindPopup(text);
+      layer.bindPopup(text, {
+  maxWidth: 250
+});
 
     } else {
       layer.bindPopup(street + "<br><i>Nincs adat</i>");
