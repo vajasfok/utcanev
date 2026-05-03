@@ -9,18 +9,13 @@
   <style>
     #map { height: 100vh; }
   .leaflet-popup-content {
-  font-size: 18px;
-  line-height: 1.6;
+    font-size: 18px;
+    line-height: 1.4;
+  }
 
-  max-height: 60vh;
-  overflow-y: auto;
-  -webkit-overflow-scrolling: touch;
-}
-
-  .poem {
-  white-space: pre-line;
-  line-height: 1.7;
-}
+  .leaflet-container {
+    font-size: 16px;
+  }
   </style>
 </head>
 <body>
@@ -58,53 +53,38 @@ Promise.all([
 
   onEachFeature: function (feature, layer) {
 
-  function normalize(str) {
-  return str
-    .normalize("NFC")
-    .replace(/\s+/g, " ")
-    .trim();
-}
-
-let street = normalize(feature.properties.name);
-let info = names[street];
-
-  console.log("street:", street);
-  console.log("info:", info);
-
-  layer.setStyle({
-    weight: window.innerWidth < 768 ? 15 : 10,
-    opacity: 0
-  });
-
-  if (info) {
-    let text = "<b>" + (street || "Ismeretlen") + "</b><br>";
-
-    if (info.img) {
-      text += `<img src="${info.img}" style="width:100%; max-width:200px; margin:5px 0;"><br>`;
-    }
-
-    if (info.name) text += info.name + "<br>";
-
-    if (info.desc) {
-      if (info.format === "poem") {
-        text += `<div class="poem">${info.desc}</div>`;
-      } else {
-        text += info.desc.replace(/\n/g, "<br>");
-      }
-    }
-
-    if (info.wiki) {
-      text += `<a href="${info.wiki}" target="_blank">Wikipedia oldal</a>`;
-    }
-
-    layer.bindPopup(text, {
-      maxWidth: 320
+    // 🔴 NEM LÁTHATÓ, DE KATTINTHATÓ “BUFFER”
+    layer.setStyle({
+      weight: window.innerWidth < 768 ? 15 : 10,
+      opacity: 0
     });
 
-  } else {
-    layer.bindPopup(street + "<br><i>Nincs adat</i>");
+    let street = feature.properties.name;
+    let info = names[street];
+
+    if (info) {
+      let text = "<b>" + (street || "Ismeretlen") + "</b><br>";
+
+if (info) {
+
+  if (info.img) {
+    text += `<img src="${info.img}" style="width:100%; max-width:200px; margin:5px 0;"><br>`;
+  }
+
+  if (info.name) text += info.name + "<br>";
+  if (info.desc) text += info.desc + "<br>";
+
+  if (info.wiki) {
+    text += `<a href="${info.wiki}" target="_blank" rel="noopener noreferrer">Wikipedia oldal</a>`;
   }
 }
+
+      layer.bindPopup(text);
+
+    } else {
+      layer.bindPopup(street + "<br><i>Nincs adat</i>");
+    }
+  }
 
 }).addTo(map);
   });
