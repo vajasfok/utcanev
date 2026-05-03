@@ -58,47 +58,53 @@ Promise.all([
 
   onEachFeature: function (feature, layer) {
 
-    // 🔴 NEM LÁTHATÓ, DE KATTINTHATÓ “BUFFER”
-    layer.setStyle({
-      weight: window.innerWidth < 768 ? 15 : 10,
-      opacity: 0
+  function normalize(str) {
+  return str
+    .normalize("NFC")
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
+let street = normalize(feature.properties.name);
+let info = names[street];
+
+  console.log("street:", street);
+  console.log("info:", info);
+
+  layer.setStyle({
+    weight: window.innerWidth < 768 ? 15 : 10,
+    opacity: 0
+  });
+
+  if (info) {
+    let text = "<b>" + (street || "Ismeretlen") + "</b><br>";
+
+    if (info.img) {
+      text += `<img src="${info.img}" style="width:100%; max-width:200px; margin:5px 0;"><br>`;
+    }
+
+    if (info.name) text += info.name + "<br>";
+
+    if (info.desc) {
+      if (info.format === "poem") {
+        text += `<div class="poem">${info.desc}</div>`;
+      } else {
+        text += info.desc.replace(/\n/g, "<br>");
+      }
+    }
+
+    if (info.wiki) {
+      text += `<a href="${info.wiki}" target="_blank">Wikipedia oldal</a>`;
+    }
+
+    layer.bindPopup(text, {
+      maxWidth: 320
     });
 
-    let street = feature.properties.name;
-    let info = names[street];
-
-    if (info) {
-      let text = "<b>" + (street || "Ismeretlen") + "</b><br>";
-
-if (info) {
-
-  if (info.img) {
-    text += `<img src="${info.img}" style="width:100%; max-width:200px; margin:5px 0;"><br>`;
-  }
-
-  if (info.name) text += info.name + "<br>";
-
-if (info.desc) {
-  if (info.format === "poem") {
-    text += `<div class="poem">${info.desc}</div>`;
   } else {
-    text += info.desc.replace(/\n/g, "<br>");
+    layer.bindPopup(street + "<br><i>Nincs adat</i>");
   }
 }
-
-  if (info.wiki) {
-    text += `<a href="${info.wiki}" target="_blank">Wikipedia oldal</a>`;
-  }
-}
-
-      layer.bindPopup(text, {
-  maxWidth: 320
-});
-
-    } else {
-      layer.bindPopup(street + "<br><i>Nincs adat</i>");
-    }
-  }
 
 }).addTo(map);
   });
